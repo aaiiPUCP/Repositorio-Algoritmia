@@ -1,0 +1,16 @@
+6 5
+X      X  XXX X
+  X   XX   X   
+      X        
+X  XXX     X  X
+          XXXX 
+      X       X
+   XXD        X
+     XX      X 
+     X X     X 
+ X X X  X   X  
+     X   XXX   
+    XX     XX  
+  X  X   X     
+XX   X         
+    XX         
