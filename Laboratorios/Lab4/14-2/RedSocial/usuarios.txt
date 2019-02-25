@@ -1,0 +1,27 @@
+125
+Alberto Torres
+19 11 1990
+233
+Juan Paz
+10 04 1985
+516
+Luis Gonzales
+03 05 1993
+600
+Carlos Perez
+06 05 1990
+700
+Diego Fernandez
+01 03 1985
+701
+Francisco Velarde
+01 03 1984
+702
+Jorge Chavez
+09 09 1990
+703
+Maria Castro
+12 03 1987
+704
+Julio Montero
+11 09 1988

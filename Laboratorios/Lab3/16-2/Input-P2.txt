@@ -1,0 +1,12 @@
+2
+4 14
+Este
+es
+mi
+curso
+favorito
+4 6
+aaa
+bb
+cc
+ddddd
